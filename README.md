@@ -20,3 +20,5 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-17171a?style=for-the-badge&logo=vk)](https://vk.com/thegrant)
 [![Instagram](https://img.shields.io/badge/-Instagram-17171a?style=for-the-badge&logo=instagram)](https://www.instagram.com/thegrant71)
 [![Telegram](https://img.shields.io/badge/-Telegram-17171a?style=for-the-badge&logo=telegram)](https://t.me/thegrant71)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grantdesign&show_icons=true&theme=dark)
