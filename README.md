@@ -22,4 +22,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-17171a?style=for-the-badge&logo=telegram)](https://t.me/thegrant71)
 
 ### Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grantdesign&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grantdesign&show_icons=true&theme=radical)
