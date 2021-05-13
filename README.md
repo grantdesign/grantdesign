@@ -1,4 +1,4 @@
-[![Header](https://github.com/grantdesign/grantdesign/blob/main/assets/header.png)](https://vk.com/thegrant)
+[![Header](https://github.com/grantdesign/grantdesign/blob/main/assets/header.png)](https://github.com/grantdesign)
 
 ## I'm engaged in website Software Engineer and Web Design 👋
 
@@ -15,3 +15,8 @@
 ![Git](https://img.shields.io/badge/-Git-17171a?style=for-the-badge&logo=git)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-17171a?style=for-the-badge&logo=phpstorm)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-17171a?style=for-the-badge&logo=photoshop)
+
+### Follow Me
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-17171a?style=for-the-badge&logo=vk)](https://vk.com/thegrant)
+[![Instagram](https://img.shields.io/badge/-Instagram-17171a?style=for-the-badge&logo=instagram)](https://www.instagram.com/thegrant71)
+[![Telegram](https://img.shields.io/badge/-Telegram-17171a?style=for-the-badge&logo=telegram)](https://t.me/thegrant71)
