@@ -21,4 +21,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-17171a?style=for-the-badge&logo=instagram)](https://www.instagram.com/thegrant71)
 [![Telegram](https://img.shields.io/badge/-Telegram-17171a?style=for-the-badge&logo=telegram)](https://t.me/thegrant71)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grantdesign&show_icons=true&theme=dark)
+### Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grantdesign&count_private=true)
